@@ -1,5 +1,5 @@
 <h1 align="center">Gerador de Senhas</h1>
-<p align="center">Projeto de um site gerador se senhas, onde permite o usuário escolher a quantidade de caracteres. Produzido com HTML, CSS e JavaScript.</p>
+<p align="center">Projeto de um site gerador de senhas, onde permite o usuário escolher a quantidade de caracteres. Produzido com HTML, CSS e JavaScript.</p>
 
 ---
 
