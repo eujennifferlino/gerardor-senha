@@ -10,7 +10,7 @@ Esse projeto foi criado no intuito de ajudar as pessoas que tem dificuldade na h
 ## Funcionalidades
 A principai funcionalidade do projeto é:
 
-✅ Responsivo em diversos tamanhos de tela.
+✅ Responsivo em diversos tamanhos de tela. </br>
 ✅ Gera senhas entre 5 e 25 caracteres
 
 
